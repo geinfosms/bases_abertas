@@ -1,4 +1,0 @@
-Bases abertas sobre informações em Saúde em Florianópolis.
-
-Bases:
-1)base_notificados_sus_privado.csv - Base de pacientes notificados pelo SUS ou por serviços privados de saúde, que tiveram diagnóstico confirmado. Período de notificação 22-02-2020 à 09-11-2020
